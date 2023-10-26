@@ -1,3 +1,18 @@
 #!/bin/bash
+# SPDX-FileCopyrightText: 2023 Takumi Watanabe
+# SPDX-License-Identifier: BSD-3-Clause
 
-seq 5 | ./plus
+ng () {
+	echo NG at Line $1
+	ret=1
+}
+
+ret=0
+
+### I/O TEST ###
+
+out=$(seq 5 | ./plus)
+[ "${out}" = 15 ] || ng ${LINENO}
+
+[ "$ret" = 0 ] && echo OK
+exit $ret
