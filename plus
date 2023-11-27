@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2023 Watanabe Takumi
+# SPDX-Lincense-Indentifier: BSD-3-Clause
+
 import sys
 
 ans = 0
