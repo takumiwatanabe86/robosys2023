@@ -13,7 +13,7 @@
 * 必要な環境
   ubuntu-latest
 * 必要な手続き
-  https://github.com/actions/checkoutのバージョン3を使用してテストのシェルスクリプトを走らせる。
+  https://github.com/actions/checkout　のバージョン3を使用してテストのシェルスクリプトを走らせる。
 
 ## 必要なソフトウェア
 * Python
