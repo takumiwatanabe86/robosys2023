@@ -22,9 +22,6 @@
 ## テスト環境
 * Ubuntu
 
-## テスト結果
-
-
 ## 参考資料
 * https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022
 
