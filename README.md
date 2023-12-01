@@ -26,5 +26,5 @@
 * https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022
 
 
-* このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.
-* © 2023 Takumi Watanabe
+このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されます.
+© 2023 Takumi Watanabe
